@@ -46,6 +46,6 @@ android {
 }
 
 dependencies {
-
-    implementation project(path: ':Core')
+    implementation project(path: ':LibCore')
 }
+

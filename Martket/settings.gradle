@@ -15,5 +15,5 @@ dependencyResolutionManagement {
 rootProject.name = "Martket"
 include ':AppMarket'
 include ':FeatureCompony'
-include ':Core'
-include ':Share'
+include ':LibCore'
+include ':LibShare'

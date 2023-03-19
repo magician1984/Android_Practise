@@ -11,9 +11,9 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/AppMarket" />
-            <option value="$PROJECT_DIR$/Core" />
             <option value="$PROJECT_DIR$/FeatureCompony" />
-            <option value="$PROJECT_DIR$/Share" />
+            <option value="$PROJECT_DIR$/LibCore" />
+            <option value="$PROJECT_DIR$/LibShare" />
           </set>
         </option>
       </GradleProjectSettings>
