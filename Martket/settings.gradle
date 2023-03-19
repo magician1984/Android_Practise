@@ -13,4 +13,7 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "Martket"
-include ':app'
+include ':AppMarket'
+include ':FeatureCompony'
+include ':Core'
+include ':Share'
